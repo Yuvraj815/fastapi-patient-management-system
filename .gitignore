@@ -1,0 +1,7 @@
+myenv/
+.venv/
+.idea/
+__pycache__/
+*.pyc
+patient.json
+.env
